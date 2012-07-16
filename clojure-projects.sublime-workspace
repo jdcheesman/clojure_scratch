@@ -1,0 +1,1313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ope",
+				"OPEN"
+			],
+			[
+				"tipo",
+				"tipo_cursor"
+			],
+			[
+				"as",
+				"AS"
+			],
+			[
+				"AS",
+				"ASIGNATURA"
+			],
+			[
+				"p",
+				"p_asignatura"
+			],
+			[
+				"p_",
+				"p_curso"
+			],
+			[
+				"COD",
+				"COD_FUNCION"
+			],
+			[
+				"r",
+				"r_docentes"
+			],
+			[
+				"P_",
+				"p_asignatura"
+			],
+			[
+				"r_",
+				"r_docentes"
+			],
+			[
+				"cu",
+				"CURSOR"
+			],
+			[
+				"tmpn",
+				"tmp_num_alumnos_x_docente"
+			],
+			[
+				"tmp_nu",
+				"tmp_num_docentes"
+			],
+			[
+				"cl",
+				"CLOSE"
+			],
+			[
+				"tmp_",
+				"tmp_result"
+			],
+			[
+				"c_",
+				"c_alumnos"
+			],
+			[
+				"and",
+				"AND"
+			],
+			[
+				"cod",
+				"cod_asig"
+			],
+			[
+				"En",
+				"END"
+			],
+			[
+				"p_no",
+				"p_nota_media"
+			],
+			[
+				"TMP",
+				"tmp_ordenado"
+			],
+			[
+				"no",
+				"nota_media_alumno"
+			],
+			[
+				"cre",
+				"creditos_alumno"
+			],
+			[
+				"lis",
+				"lis_datos_lt"
+			],
+			[
+				"poss",
+				"possible_countries"
+			],
+			[
+				"usc",
+				"USCITIES"
+			],
+			[
+				"uss",
+				"US_STATES"
+			],
+			[
+				"sorted",
+				"sorted_data"
+			],
+			[
+				"sorte",
+				"sorted_data"
+			],
+			[
+				"DNI",
+				"DNI_FORMATO_UNED"
+			],
+			[
+				"us",
+				"uscity"
+			],
+			[
+				"us_",
+				"us_cities"
+			],
+			[
+				"countr",
+				"countries"
+			],
+			[
+				"COU",
+				"COUNTRIES"
+			],
+			[
+				"loca",
+				"location_finder"
+			],
+			[
+				"husb",
+				"husbands"
+			],
+			[
+				"Aw",
+				"Answer"
+			],
+			[
+				"wf",
+				"wife_added"
+			],
+			[
+				"possib",
+				"possible_names"
+			],
+			[
+				"is",
+				"istitle"
+			],
+			[
+				"curren",
+				"current_name"
+			],
+			[
+				"tmp",
+				"tmpdata"
+			],
+			[
+				"mar",
+				"married_re_1"
+			],
+			[
+				"h",
+				"husband"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"wife",
+				"wife_added"
+			],
+			[
+				"husba",
+				"husband"
+			],
+			[
+				"wif",
+				"wife_added"
+			],
+			[
+				"hus",
+				"husband"
+			],
+			[
+				"hu",
+				"husband"
+			],
+			[
+				"spo",
+				"spouse"
+			],
+			[
+				"get",
+				"get_element"
+			],
+			[
+				"spos",
+				"spouses"
+			],
+			[
+				"clean",
+				"clean_spouse"
+			],
+			[
+				"cle",
+				"clean_name"
+			],
+			[
+				"in",
+				"indent_level"
+			],
+			[
+				"data",
+				"data_in_box"
+			],
+			[
+				"test_",
+				"test_line"
+			],
+			[
+				"end",
+				"end_ele"
+			],
+			[
+				"start",
+				"start_element"
+			],
+			[
+				"to",
+				"to_test1"
+			],
+			[
+				"x",
+				"x2_docs"
+			],
+			[
+				"COD_",
+				"COD_FUNCION_DOCENTE"
+			],
+			[
+				"qu",
+				"query_tfidf"
+			],
+			[
+				"sum",
+				"sum_sq"
+			],
+			[
+				"words",
+				"words_in_query"
+			],
+			[
+				"words_",
+				"words_in_query_tmp"
+			],
+			[
+				"AP",
+				"APELLIDO1"
+			],
+			[
+				"OR",
+				"ORDER"
+			],
+			[
+				"do",
+				"DOCU"
+			],
+			[
+				"C_",
+				"c_docentes"
+			],
+			[
+				"e",
+				"epsilon"
+			],
+			[
+				"R_",
+				"r_docentes"
+			],
+			[
+				"th",
+				"THEN"
+			],
+			[
+				"EX",
+				"EXIT"
+			],
+			[
+				"sel",
+				"SELECT"
+			],
+			[
+				"TF",
+				"TFG_ASIGNAR"
+			],
+			[
+				"TI",
+				"tipo_cursor"
+			],
+			[
+				"TFG",
+				"TFG_ASIGNAR"
+			],
+			[
+				"CUR",
+				"CURSOR"
+			],
+			[
+				"inde",
+				"indexDoc"
+			],
+			[
+				"tf",
+				"tfidf"
+			],
+			[
+				"inv",
+				"inv_index"
+			],
+			[
+				"asig",
+				"ASIGNATURA"
+			],
+			[
+				"tmp_no",
+				"tmp_nota_media"
+			],
+			[
+				"bin",
+				"binarize_tree"
+			],
+			[
+				"Tree",
+				"TreeAnnotations"
+			],
+			[
+				"pr",
+				"prebinary_trees"
+			],
+			[
+				"binary",
+				"binary_trees"
+			],
+			[
+				"test",
+				"test_trees"
+			],
+			[
+				"train",
+				"train_trees"
+			],
+			[
+				"doub",
+				"doubleMe"
+			],
+			[
+				"tmp_nom",
+				"tmp_nota_media"
+			],
+			[
+				"tmp_cre",
+				"tmp_creditos"
+			],
+			[
+				"N",
+				"NUMBER"
+			],
+			[
+				"v_",
+				"v_code"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"tmp_cod_",
+				"tmp_cod_via_estudio"
+			],
+			[
+				"i",
+				"IDENTIFICADOR"
+			],
+			[
+				"TMP_CO",
+				"tmp_cod_via_estudio"
+			],
+			[
+				"cod_",
+				"COD_ASIG"
+			],
+			[
+				"O",
+				"OTHERS"
+			],
+			[
+				"pc",
+				"p_docu_original"
+			],
+			[
+				"T",
+				"THEN"
+			],
+			[
+				"E",
+				"EXCEPTION"
+			],
+			[
+				"dni",
+				"DNI_FORMATO_UNED"
+			],
+			[
+				"CO",
+				"COD_LINEA_TR"
+			],
+			[
+				"TFG_",
+				"TFG_USUARIOS_BLOQUEADOS"
+			],
+			[
+				"tfg_",
+				"tfg_lineas_alumno"
+			],
+			[
+				"p_c",
+				"p_cupos"
+			],
+			[
+				"Asig",
+				"ASIGNATURA"
+			],
+			[
+				"tmp_c",
+				"tmp_cod_programa"
+			],
+			[
+				"Nota",
+				"nota_media_alumno"
+			],
+			[
+				"F",
+				"FCURSO_ACT"
+			],
+			[
+				"NOT",
+				"NOTFOUND"
+			],
+			[
+				"L",
+				"LOOP"
+			],
+			[
+				"tm",
+				"tmp_cod_via_estudio"
+			],
+			[
+				"into",
+				"INTO"
+			],
+			[
+				"IN",
+				"IDENTIFICADOR"
+			],
+			[
+				"c",
+				"c_lt"
+			],
+			[
+				"C",
+				"CURSOR"
+			],
+			[
+				"LINE",
+				"LINEA"
+			],
+			[
+				"CRE",
+				"CREDITOS_ALUMNO"
+			],
+			[
+				"NO",
+				"NOTA_MEDIO_ALUMNO"
+			],
+			[
+				"ORE",
+				"ORDEN"
+			],
+			[
+				"DESC",
+				"DESC_LINEA_TRABAJO"
+			],
+			[
+				"cur",
+				"CURSO"
+			],
+			[
+				"ORDE",
+				"ORDEN_LINEA"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pigLatin.clj",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "strange-adder.clj",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Windows",
+				"name": "(defn strange-adder"
+			}
+		},
+		{
+			"file": "concat-rest.clj",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Windows",
+				"name": "(defn concat-rest"
+			}
+		},
+		{
+			"file": "make-user.clj",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Windows",
+				"name": "(defn make-user"
+			}
+		},
+		{
+			"file": "naive-repl.clj",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Windows",
+				"name": "(defn embedded-repl"
+			}
+		},
+		{
+			"file": "/C/Users/j.cheesman/Dropbox/clojure/clojure/src/clj/clojure/main.clj",
+			"settings":
+			{
+				"buffer_size": 15267,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/langs/java/spring/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/config/PreferencesPlaceholderConfigurer.java",
+			"settings":
+			{
+				"buffer_size": 4346,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/j.cheesman/Documents/temp/add.ll",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "make-user-2.clj",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Windows",
+				"name": "(defn make-user"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ll",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/langs/java/spring/spring-framework/src/test/java/org/springframework/scheduling/annotation/ScheduledAndTransactionalAnnotationIntegrationTests.java",
+		"/C/langs/java/spring/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/config/PropertyResourceConfigurerTests.java",
+		"/C/Users/j.cheesman/_netrc",
+		"/C/jdev1012_base/jdev/mywork/tfg/trunk/Project/public_html/htdocs/Seleccionar_Alumno.jsp",
+		"/C/jdev1012_base/jdev/mywork/tfg/trunk/Project/public_html/htdocs/Lista_Prioridades.jsp",
+		"/C/jdev1012_base/jdev/mywork/tfg/trunk/Project/public_html/htdocs/Alumno_Priorizar.jsp",
+		"/C/jdev1012_base/jdev/mywork/tfg/trunk/Project/public_html/htdocs/Seleccionar_Asignatura.jsp",
+		"/C/langs/java/spring/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/config/PropertyResourceConfigurerTests-test.properties",
+		"/C/RailsInstaller/Ruby1.9.2/setup_environment.bat",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/LLVM/llvm.tmLanguage",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/Clojure/Clojure.tmLanguage",
+		"/C/Users/j.cheesman/Documents/temp/add.llvm",
+		"/C/Users/j.cheesman/Documents/temp/add.ll",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/LLVM/llvm.tmbundle",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/Project/public_html/WEB-INF/providers/trabajosfingrado/provider.xml",
+		"/C/docs_jim/UNED/tfg/plsql/02_pk_lineas_tfg_30052012.sql",
+		"/C/Users/j.cheesman/Dropbox/clojure/projects/count.clj",
+		"/C/docs_jim/UNED/tfg/plsql/03_PK_JOB_TFG_21052012.sql",
+		"/C/Users/j.cheesman/Dropbox/nlp/week1/asig1/pa1-spamlord-v2/python/SpamLord.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/data/landmarks.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/data/googleResults_tagged.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/test.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/res.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/states.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/ideas_google.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/cities.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/Googling.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/arnie.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/infoboxes.txt",
+		"/C/langs/python/Python27/Lib/site-packages/nltk/corpus/__init__.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/data/wives.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/data/small-wiki.xml",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/ideas.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/python/Wiki.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/test/q2.csv",
+		"/C/Users/j.cheesman/Dropbox/nlp/week8/pa8-jeopardy-v2/data/gates.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week7/pa7-ir-v2/data/queries.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week7/pa7-ir-v2/data/solutions.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week7/pa7-ir-v2/python/test.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week7/pa7-ir-v2/python/error.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week7/pa7-ir-v2/python/IRSystem.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/j.cheesman/Dropbox/nlp/week7/pa7-ir-v2/data/solutions_java.txt",
+		"/C/docs_jim/UNED/tfg/plsql/02_pk_lineas_tfg.sql",
+		"/C/docs_jim/UNED/tfg/plsql/01_create_tablas.sql",
+		"/C/docs_jim/UNED/tfg/plsql/03_PK_JOB_TFG.sql",
+		"/C/docs_jim/UNED/tfg/plsql/temp_tables.sql",
+		"/C/docs_jim/UNED/tfg/plsql/tfg_plsql.sublime-project",
+		"/C/docs_jim/UNED/sistemas/profile_jvm.txt",
+		"/C/jdev1012_base/jdev/system10.1.2.1.0.1913/oc4j-config/server.xml",
+		"/C/jdev1012_base/jdev/system10.1.2.1.0.1913/oc4j-config/java.hprof.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/python/ling/Trees.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/python/PCFGParserTester.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/python/PCFGParserTester_3.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/q3_guess_clean.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/q3_gold_clean.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/indent.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/training_tree.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/python/ling/Tree.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/q3_gold.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/python/PCFGParserTester_2.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week2/asig2/pa2-autocorrect-v1/python/CustomLanguageModel.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/test.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/test2.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/test/q3_guess.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/python/iolocal/PennTreebankReader.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/python/iolocal/MASCTreebankReader.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/data/parser/masc/train/110CYL067.mrg",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/data/parser/miniTest/2.mrg",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/data/parser/miniTest/1.mrg",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/data/parser/miniTest/3.mrg",
+		"/C/Users/j.cheesman/Dropbox/nlp/week6/pa6-cky-v3/data/parser/miniTest/4.mrg",
+		"/C/langs/Haskell/projects/baby.hs",
+		"/C/Users/j.cheesman/Downloads/stanford-parser-2012-03-09/stanford-parser-2012-03-09/stanford-parser-2012-03-09-sources/src/edu/stanford/nlp/process/DocumentPreprocessor.java",
+		"/C/Users/j.cheesman/Downloads/stanford-parser-2012-03-09/stanford-parser-2012-03-09/ParserDemo.java",
+		"/C/Users/j.cheesman/Downloads/stanford-parser-2012-03-09/stanford-parser-2012-03-09/stanford-parser-2012-03-09-sources.jar",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/build_s2.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/S1.gr",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/Vocab.gr",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/tree.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/dev.sen",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/S2.gr",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/bak/S2.gr",
+		"/C/Users/j.cheesman/Dropbox/nlp/week5/pa5-pcfg-v2/allowed_words",
+		"/C/langs/oracle_conf/tnsnames.ora",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/TrabajosFinGrado-oc4j-app.log",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/NER_split_train_test.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/FeatureFactory.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/NER.py",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/Script_Completo2.sql",
+		"/C/docs_jim/UNED/tfg/plsql/02_pk_lineas_tfg_1059_18042012.sql",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/java/build.xml",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/java/README.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/results_1006.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/results_1220.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/results_1344.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/results_1530.txt",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/results.txt",
+		"/C/docs_jim/UNED/tfg/plsql/02_pk_lineas_tfg_1037_17042012.sql",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/LogConditionalObjectiveFunction.java",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/FeatureFactory_72.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/trainWithFeatures.json",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/java/FeatureFactory.java",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/python/MEMM.java",
+		"/C/Users/j.cheesman/Dropbox/nlp/week4/pa4-ner/data/train",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/j.cheesman/Dropbox/Jim/18-Certificado_Residencia_comunitaria_README.txt",
+		"/C/jdev1012_base/jdev/system10.1.2.1.0.1913/oc4j-config/data-sources.xml",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/TrabajosFinGrado-data-sources.xml",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/Project/Project.jpr",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/Project/public_html/Alumno_Priorizar.jsp",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/Project/public_html/WEB-INF/web.xml",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/TrabajosFinGrado.jws",
+		"/C/jdev1012_base/jdev/mywork/portal_datospersonales/trunk/Fuente/Project/src/es/uned/portal/grados/util/titulacion/Constantes.java",
+		"/C/jdev1012_base/jdev/mywork/portal_datospersonales/trunk/Fuente/Project/src/es/uned/portal/grados/controlador/gestionartitulaciones/GestionarTitulacionesPortletRender.java",
+		"/C/jdev1012_base/j2ee/home/config/data-sources.xml",
+		"/C/jdev1012_base/jdev/mywork/TrabajosFinGrado/Project/public_html/WEB-INF/src/es/uned/portal/gaia/tfg/bd/dao/ExcelFormat.java",
+		"/C/langs/java/apache-tomcat-6.0.35/conf/server.xml",
+		"/C/langs/java/apache-tomcat-6.0.35/conf/tomcat-users.xml",
+		"/C/Users/j.cheesman/Dropbox/nlp/week3/pa3-sentiment-nlp-v4/sentiment/python/NaiveBayes.py",
+		"/C/jdev1012_base/jdev/bin/jdev.conf",
+		"/C/Users/j.cheesman/Dropbox/nlp/week3/pa3-sentiment-nlp-v4/sentiment/python/submit.py",
+		"/C/Users/j.cheesman/Dropbox/nlp/week3/pa3-sentiment-nlp-v4/sentiment/data/english.stop",
+		"/C/Users/j.cheesman/Dropbox/nlp/week3/pa3-sentiment-nlp-v4/sentiment/data/poldata.README.2.0"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/",
+			"repl",
+			"tmp_id_nivel",
+			"c_creditos",
+			"í",
+			"á",
+			"ó",
+			"uned.",
+			"obtener_datos_alumnos",
+			"insert into tfg_log",
+			"TFG_DOCENTES",
+			"curso_actual",
+			"obtener_doce",
+			"obtener_datos_alumnos",
+			"obtener_doc",
+			"uned",
+			"calculate_linea_alumno",
+			"act",
+			"tmp_result",
+			"insert into tfg_log",
+			"obtener_cupos",
+			"tmp_result",
+			"insert into tfg_log",
+			"calculate_linea_alumno",
+			"creditos_alumno",
+			"commi",
+			"creditos_alumno",
+			"PUNTOS",
+			"nota_media_alumno",
+			"creditos_alumno",
+			"p_user",
+			"creditos_alumno",
+			"TFG_LINEAS_ALUMNO",
+			"obtener_docentes",
+			"p_user",
+			"bloquear_alumno",
+			"COD_LINEA_TR",
+			"bloquear_alumno",
+			"tmp_cupo",
+			"calculate_linea_alumno",
+			"FLAG_ORDENADO",
+			"calculate_linea_alumno",
+			"tmp_result",
+			"calculate_linea_alumno",
+			"obtener_lin",
+			"insert into tfg_l",
+			"CUPO",
+			"guardar_linea",
+			"bloquear_as",
+			"insert into tfg_lo",
+			"USCITIES",
+			"location_finder",
+			"bloquear_alumno",
+			"pk_tfg_usuario",
+			"when others",
+			"bloquear_alumno",
+			"locations",
+			"<LOCATION>",
+			"landmarks",
+			"Read And Watch: Steve Jobs' Stanford Commencement Address ...",
+			"Location",
+			"Francine Faure",
+			"alma powell",
+			"Alma ",
+			"Alma Johnson",
+			"Alma Vivian Johnson",
+			"print",
+			"<title>",
+			"billy ",
+			"Janice Goldfinger",
+			"open",
+			"Maria Shriver",
+			"([\\s\\w]*)[\\.!?]*$",
+			"Elizabeth Dunnell",
+			"Francine Faure",
+			"spouse",
+			"end_element",
+			"is_name",
+			"spouses",
+			"spouse",
+			"Infobox",
+			"name",
+			"| spouse",
+			"Melinda Gates",
+			"othername",
+			"birthname",
+			"]",
+			"2008",
+			"2009",
+			"name =",
+			"process_file",
+			">%s<",
+			"pattern",
+			"TFG_LINEAS",
+			"guardar_linea",
+			"+0.0",
+			"normalise_array",
+			"get_array_x2",
+			"norm",
+			"get_uniq_words",
+			"vocab",
+			"word_count",
+			"inv_index",
+			"COD_FUNCION",
+			"obtener_do",
+			"inv_index",
+			"query_rank",
+			"rank_retrieve",
+			".",
+			"result.append((val+0.0) / sum_sq",
+			"result.append((val+0.0) / sum_sq)",
+			"get_tfidf",
+			"not in",
+			")",
+			"inv_index",
+			"AS",
+			"rank_retrieve",
+			"query_rank",
+			"INSERT INTO TFG_LO",
+			"obtener_docentes",
+			"calculate_linea_alumno",
+			"get_tfid",
+			"get_tf",
+			"calculate_linea_alumno",
+			"obtener_docentes",
+			"fechasexa.",
+			"calculate_linea_alumno",
+			"inv_index[word][2]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\",
+			"num_alumnos",
+			"c_alumnos",
+			"&iacute;",
+			"&aacute;",
+			"&oacute;",
+			"tmp_num_docentes",
+			"US_CITIES",
+			" (.+)",
+			"\"%s\"",
+			"infobox_pattern",
+			",",
+			"', '",
+			"VerbTPP",
+			"00001011",
+			"10110001",
+			" 6,",
+			"Prueba Trabajo Final 1",
+			" 5,",
+			"Primera linea de Trabajo de la Demo",
+			" 4,",
+			"Comentarios Operísticos",
+			" 3,",
+			"Comentarios Periodísticos",
+			"Comentarios Deportivos",
+			" 2,",
+			"2,",
+			"'",
+			"',",
+			"'",
+			",\\n",
+			"\\t",
+			"_datos_alumno",
+			"NOTA_MEDIA_ALUMNO",
+			"00",
+			"0",
+			"bloquear_alumno",
+			"elif",
+			"c",
+			"\"",
+			"00001011",
+			"50017792Z",
+			"38557891R",
+			"21620829R",
+			"'001011'",
+			"2012",
+			"LINEA_TRABAJO,DESC_LINEA_TRABAJO,",
+			"\\",
+			"posgrado_pro",
+			"",
+			"\\n",
+			"\\t",
+			",",
+			"word_n_minus_1",
+			"p_asignaciones",
+			"p_elecciones",
+			" IN ",
+			"NUMBER(",
+			" AND ",
+			"CLOSE ",
+			"END LOOP;",
+			"",
+			"data_path_file",
+			"unigrams",
+			"varchar2",
+			"\\\"",
+			"RecibirExcel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pigLatin.clj",
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "strange-adder.clj",
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(defn strange-adder",
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "concat-rest.clj",
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(defn concat-rest",
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "make-user.clj",
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(defn make-user",
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "naive-repl.clj",
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(defn embedded-repl",
+							"syntax": "Packages/Clojure/Clojure.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/j.cheesman/Dropbox/clojure/clojure/src/clj/clojure/main.clj",
+					"settings":
+					{
+						"buffer_size": 15267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8385,
+								8385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3139.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/langs/java/spring/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/config/PreferencesPlaceholderConfigurer.java",
+					"settings":
+					{
+						"buffer_size": 4346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								915,
+								915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/j.cheesman/Documents/temp/add.ll",
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "make-user-2.clj",
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(defn make-user",
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"01",
+				"/C/docs_jim/UNED/tfg/plsql/01_create_tablas.sql"
+			],
+			[
+				"de",
+				"/C/Users/j.cheesman/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
